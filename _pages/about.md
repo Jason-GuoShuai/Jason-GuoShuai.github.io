@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Hello world!
+
+[Email](mailto:guoshuai@qut.edu.cn) / [Github](https://github.com/Jason-GuoShuai) / [Wechat](../images/wechat.jpg)
