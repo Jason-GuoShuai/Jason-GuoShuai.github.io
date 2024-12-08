@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello world!
+Hello world!guoshaui
 
-[Email](mailto:guoshuai@qut.edu.cn) / [Github](https://github.com/Jason-GuoShuai) / [Wechat](../images/wechat.jpg)
+[Email](mailto:guoshuai@qut.edu.cn)
